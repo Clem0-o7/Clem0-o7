@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently Pursuing BE at Thiagarajar College of Engineering
+💬Learning the nuances of New age Data 
+📫You can reach me by sending me a mail
+⚡ Fun fact: I can talk about Books and Shows all day long
 
 <!--
 **Clem0-o7/Clem0-o7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
