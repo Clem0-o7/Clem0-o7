@@ -1,21 +1,12 @@
-### Hi there 👋
-### I'm Clement Andrew
-<br>🔭 I’m currently Pursuing BE at Thiagarajar College of Engineering
-<br>💬Learning the nuances of New age Data 
-<br>📫You can reach me by sending me a mail
-<br>⚡ Fun fact: I can talk about Books and Shows all day long
+# Hey, I'm Clement Andrew 👋
 
-<!--
-**Clem0-o7/Clem0-o7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · Distributed Systems · Full-Stack · Applied AI**
 
-Here are some ideas to get you started:
+I build software across distributed systems, full-stack products and applied AI 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **[ShardSearch](https://github.com/Clem0-o7/shard-search)** and contributing to open-source software.
+
+— Reach me on any of my socials or through my mail
+
+🌐 [**clemo.in**](https://clemo.in) · 
+
